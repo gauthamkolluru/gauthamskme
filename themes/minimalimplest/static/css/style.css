@@ -21,7 +21,14 @@ span.highlight {
   background-color: lightgray;
 }
 
-@media screen and (min-width: 640px) {
+body {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+@media screen and (min-width: 480px) {
   body {
     margin-top: 50px;
     margin-bottom: 50px;
