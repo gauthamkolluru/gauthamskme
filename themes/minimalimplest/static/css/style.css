@@ -11,10 +11,21 @@ a {
   text-decoration: none;
 }
 
-div.highlight div, div.highlight pre, div.highlight span {
+div.highlight div,
+div.highlight pre,
+div.highlight span {
   background-color: #222333 !important;
 }
 
-span.highlight{
-    background-color: lightgray;
+span.highlight {
+  background-color: lightgray;
+}
+
+@media screen and (min-width: 480px) {
+  body {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
 }
