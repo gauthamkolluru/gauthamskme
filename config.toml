@@ -17,6 +17,11 @@ theme = "minimalimplest"
     name = "Resume"
     pre = "resume"
     url = "https://resume.gauthamsk.me"
+    weight = 4
+  [[menu.main]]
+    name = "About"
+    pre = "About"
+    url = "/about"
     weight = 3
 [markup]
   [markup.highlight]
