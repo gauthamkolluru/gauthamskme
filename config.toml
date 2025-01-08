@@ -16,7 +16,7 @@ theme = "minimalimplest"
   [[menu.main]]
     name = "Resume"
     pre = "resume"
-    url = "https://resume.gauthamsk.me"
+    url = "https://resume.thegauthams.com"
     weight = 4
   [[menu.main]]
     name = "About"
